@@ -18,6 +18,6 @@ int main(){
     else{
     printf("Reprovado. ");
     }
-    printf("%f", media);
+    printf("%.1f", media);
 return 0;
 }
