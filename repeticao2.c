@@ -4,7 +4,7 @@ int main()
 {
 
     int v = 1;
-    int n;
+    int n = 0;
     while(v >= 0)
     {
         printf("insira um numero: ");
