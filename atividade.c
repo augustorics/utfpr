@@ -1,3 +1,6 @@
+/*Boa Tarde! Você deixou o git aberto XD  
+tome mais cuidado na próxima vez rsrs */
+
 #include <stdio.h>
 int main(){
 
